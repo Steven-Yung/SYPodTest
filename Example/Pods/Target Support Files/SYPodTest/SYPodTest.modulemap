@@ -1,0 +1,6 @@
+framework module SYPodTest {
+  umbrella header "SYPodTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

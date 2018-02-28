@@ -1,0 +1,22 @@
+{
+  "name": "SYPodTest",
+  "version": "0.1.0",
+  "summary": "A short description of SYPodTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/rongxianyu/SYPodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "rongxianyu": "rongxianyu@bylongma.com"
+  },
+  "source": {
+    "git": "https://github.com/rongxianyu/SYPodTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SYPodTest/Classes/**/*"
+}

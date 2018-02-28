@@ -22,7 +22,7 @@ pod 'SYPodTest'
 
 ## Author
 
-rongxianyu, rongxianyu@bylongma.com
+rongxianyu, 356586162@qq.com
 
 ## License
 
